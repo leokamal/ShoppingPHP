@@ -142,7 +142,7 @@ if ($a == 'cart') {
 		<meta name="description" content="">
 		<meta name="author" content="">
 
-		<title>Cart - A Simple PHP Cart Library by Sei Kan</title>
+		<title>Shop - A Simple PHP SHOP</title>
 
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 		<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css" rel="stylesheet">
@@ -157,7 +157,7 @@ if ($a == 'cart') {
 		<div class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
-					<a href="?a=shop" class="navbar-brand">Sample Shop</a>
+					<a href="?a=shop" class="navbar-brand">Shop V1</a>
 					<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
@@ -254,6 +254,6 @@ if ($a == 'cart') {
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-		<script src="public/script.js"></script>
+		<script src="public/js/script.js"></script>
 	</body>
 </html>
